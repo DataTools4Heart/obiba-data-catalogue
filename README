@@ -1,0 +1,16 @@
+# Obiba stack
+
+Docker based deployment including:
+- Mica catalogue
+- Opal data warehouse
+- Agate AthN/Z
+- Mongo DataBase
+- Rock R server
+
+### Installation notes
+- Recaptcha pair of keys created at https://console.cloud.google.com/security/recaptcha/ use inb.computational@gmail.com
+
+- Demo user:
+	- username: Demo_local
+	- pass: Demo_local!01
+
