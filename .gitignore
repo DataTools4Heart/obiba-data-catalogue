@@ -1,3 +1,5 @@
+.env
+
 volumes/opal
 volumes/agate
 volumes/mica
